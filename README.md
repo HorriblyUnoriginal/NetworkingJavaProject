@@ -12,6 +12,6 @@ Client Server Java application for Networking
 <ul>
   <li>Constructor</li>
   <li>buildGUI</li>
-  <li>connect</li>
-  <li>TCP/IP Thread</li>
+  <li>ConnectTCP</li>
+  <li>ConnectUDP</li>
 </ul>
